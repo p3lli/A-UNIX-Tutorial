@@ -3,7 +3,7 @@
 The repo is just a tutorial for merging analogous `.csv` file in one resulting `.csv` file.  
 This may be not the fastest or the smartest way, but it seems to work.  
 
-## Content
+## Contents
 - three analogous `.csv` files  
 - a `backup` folder  
 
