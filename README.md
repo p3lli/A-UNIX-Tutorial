@@ -29,5 +29,5 @@ cat *.csv | sort | uniq > result.csv
 
 Finally, we re-append the header to `result.csv`:  
 ```
-cat header.txt result.csv
+cat header.txt result.csv > result.csv
 ```
